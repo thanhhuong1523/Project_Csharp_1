@@ -12,3 +12,4 @@ C:\Users\Administrator\Project_Csharp_1\Project_Cs_1\obj\Debug\net8.0\refint\Pro
 C:\Users\Administrator\Project_Csharp_1\Project_Cs_1\obj\Debug\net8.0\Project_Cs_1.pdb
 C:\Users\Administrator\Project_Csharp_1\Project_Cs_1\obj\Debug\net8.0\Project_Cs_1.genruntimeconfig.cache
 C:\Users\Administrator\Project_Csharp_1\Project_Cs_1\obj\Debug\net8.0\ref\Project_Cs_1.dll
+C:\Users\Administrator\Project_Csharp_1\Project_Cs_1\obj\Debug\net8.0\Project_Cs_1.sourcelink.json
