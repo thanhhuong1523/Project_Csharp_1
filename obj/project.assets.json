@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Project_Csharp_1\\Project_Cs_1\\Project_Cs_1.csproj",
-      "projectName": "Project_Cs_1",
-      "projectPath": "C:\\Users\\Administrator\\Project_Csharp_1\\Project_Cs_1\\Project_Cs_1.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Project_Csharp_1\\Project_Cs_1\\Bai1.csproj",
+      "projectName": "Bai1",
+      "projectPath": "C:\\Users\\Administrator\\Project_Csharp_1\\Project_Cs_1\\Bai1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Project_Csharp_1\\Project_Cs_1\\obj\\",
       "projectStyle": "PackageReference",
